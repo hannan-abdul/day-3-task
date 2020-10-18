@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+}
+.container {
+	width: 1000px;
+	overflow: hidden;
+	margin: auto;
+}
+.box {
+	width: 329px;
+	height: 165px;
+	background-color: skyblue;
+	float: left;
+	box-sizing: border-box;
+	margin: 10px 2px;
+}
+.container .box2 {
+	width: 985px;
+	height: 165px;
+	background-color: skyblue;
+	margin: 10px 2px;
+	padding: 5px;
+}
+.container .box3 {
+	width: 486px;
+	height: 165px;
+	background-color: skyblue;
+	margin: 10px 2px;
+	padding: 5px;
+	float: left;
+}
+.container .box4 {
+	width: 658px;
+	height: 165px;
+	background-color: skyblue;
+	margin: 10px 2px;
+	padding: 5px;
+	float: left;
+}
+.container .box5 {
+	width: 150px;
+	height: 165px;
+	background-color: skyblue;
+	margin: 10px 2px;
+	padding: 5px;
+	float: left;
+}
